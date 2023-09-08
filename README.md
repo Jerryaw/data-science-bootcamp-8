@@ -15,3 +15,5 @@ I learned a lot of stuff related to data science skills. This bootcamp has 10 sp
 - Python Programming
 - Essential Python for Data Analyst
 - Dashboard
+
+You can find me on LinkedIn https://www.linkedin.com/in/worawat-jerry-aw/
